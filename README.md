@@ -4,6 +4,9 @@
 # 💫 About Me:
 Highly motivated and results-driven currently graduting with a solid foundation in software development and web technologies. Skilled in Python, CSS, HTML, and C programming languages, with hands-on experience in web designing and development. <br><br>Throughout my educational journey at Blooming Dale School, I have honed my abilities to create visually appealing and functional websites while ensuring efficient code implementation. I am passionate about leveraging technology to solve real-world problems and create engaging user experiences.<br><br>I thrive in collaborative environments, where I can contribute my strong analytical and problem-solving skills to drive innovative solutions. Committed to continuous learning, I stay up-to-date with the latest industry trends and technologies to enhance my skill set.<br><br>Currently seeking opportunities to apply my knowledge and skills in a dynamic organization that values creativity, teamwork, and innovation. Open to roles in software development, web design, or any related field that allows me to contribute to the growth and success of a forward-thinking company.<br><br>If you're looking for a dedicated and versatile professional with a passion for coding and a keen eye for design, let's connect and explore potential opportunities!
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@singhanubh39322/30-nites-of-code)  
+  ![@singhanubh39322 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=singhanubh39322)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anu.bhav_pvtt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhav-singh99) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnubhavSingh99x) 
