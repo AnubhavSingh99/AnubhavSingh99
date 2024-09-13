@@ -1,4 +1,4 @@
-![alt text](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/244060921ab77c76-5f/s640x960/99422fdf80cbae58e28cd8f7908cae62a0fe45d1.gifv)
+![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif)
 ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Anubhav+Singh!+%F0%9F%91%8B)
 
 # 💫 About Me:
